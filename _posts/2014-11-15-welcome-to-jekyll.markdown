@@ -1,25 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome!"
 date:   2014-11-15 12:46:45
-categories: jekyll update
+categories: welcome
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hi, and welcome to my site, Iam Rick Tryfle.
+I guess the reason you are here is Crazy Awesome Music? Well, you come to the right place :)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Iam a producer, turntablist and mixing engineer specialized in deep and creative electronic music styles.
+Currently Iam working on a few song releases on Itunes, Amazon, GoogleMusic and more. You will also be able to buy my music directly here.
 
-Jekyll also offers powerful support for code snippets:
+Subscribe below to be one of the first people on the planet to know the release date and get your free exclusive snippet on the songs before they actually being released.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+If want to get in touch and get the latest updates follow me on twitter or facebook.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+Also make sure to follow me on Soundcloud for free dj mixes and tracks.
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Stay tuned for more information.
+
+- Rick Tryfle
